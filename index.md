@@ -12,9 +12,8 @@ In Quarter 2, we are going to add a user interaction with generative agents. Thi
 assess the influence on agents' memories, plans and actions. The core investigation will measure how these agents adapt and change their behavior after direct user interaction, and
 understand the dynamics of human-agents interaction and the potential for personalized agents behavior.
 
-**What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
-A potential change would be explore and apply a new speed up techniques. In Quarter 1 Project, we reduce numerical precision by using 4-bit, which while effective in reducing load times,
-precision will be lowered. We will investigate "flash attention" to try to speed up the process to balance performance and precision, since we are going to involve a dynamic 
+**What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**  
+A potential change would be explore and apply a new speed up techniques. In Quarter 1 Project, we reduce numerical precision by using 4-bit, which while effective in reducing load times, precision will be lowered. We will investigate "flash attention" to try to speed up the process to balance performance and precision, since we are going to involve a dynamic 
 human-agents interactions and measure the change of their behavior, lower precision may effect the integrity of the results.
 
 **What other techniques would you be interested in using in your project?**  
