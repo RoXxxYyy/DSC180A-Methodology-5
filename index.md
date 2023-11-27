@@ -13,7 +13,7 @@ assess the influence on agents' memories, plans and actions. The core investigat
 understand the dynamics of human-agents interaction and the potential for personalized agents behavior.
 
 **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**  
-A potential change would be explore and apply a new speed up techniques. In Quarter 1 Project, we reduce numerical precision by using 4-bit, which while effective in reducing load times, precision will be lowered. We will investigate "flash attention" to try to speed up the process to balance performance and precision, since we are going to involve a dynamic human-agents interactions and measure the change of their behavior, lower precision may effect the integrity of the resultssssss.
+A potential change would be explore and apply a new speed up techniques. In Quarter 1 Project, we reduce numerical precision by using 4-bit, which while effective in reducing load times, precision will be lowered. We will investigate "flash attention" to try to speed up the process to balance performance and precision, since we are going to involve a dynamic human-agents interactions and measure the change of their behavior, lower precision may effect the integrity of the results.
 
 **What other techniques would you be interested in using in your project?**  
 In addition to sentence similarity, we are interested in using Textual Entailment in huggingface library as a method to measure the logical consistency between texts. The approach
